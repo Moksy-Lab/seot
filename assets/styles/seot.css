@@ -1,0 +1,61 @@
+/*****hunter*****/
+/* #hunter(headerhdmc0pmwml) #css starts  */
+.headerhdmc0pmwml .logo{
+    max-height: 35px
+}
+.headerhdmc0pmwml .navbar-light .navbar-nav .nav-link {
+    color: #3C3B37
+}
+.headerhdmc0pmwml .navbar-light .navbar-nav .nav-link:hover {
+    color: #1eb2a6
+}
+/* #hunter(headerhdmc0pmwml) #css ends  */
+/*****hunter*****/
+
+/*****agent*****/
+    /* #agent(1e3f52aae36e7047) #css starts  */
+    .aboutd1e3f52aae36e7047 {
+        padding: 2.5rem 0
+    }
+    .aboutd1e3f52aae36e7047 .DescriptionHeading {
+        color: #1eb2a6;
+        font-size: 50px
+    }
+
+    .aboutd1e3f52aae36e7047 .DescriptionPara {
+        color: #808080;
+        font-size: 20px
+    }
+   .aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active,
+   .aboutd1e3f52aae36e7047 .btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #EA5252;
+    border-color: #EA5252
+   }
+    /* #agent(1e3f52aae36e7047) #css ends  */
+/*****agent*****/
+
+/*****sammy*****/
+    /* #sammy(ebfcf165e4ae5852) #css starts  */
+    .serviceebfcf165e4ae5852 h2 {
+        font-size: 32px
+    }
+    .serviceebfcf165e4ae5852 {
+        padding: 2.5rem 0
+    }
+    /* #sammy(ebfcf165e4ae5852) #css ends  */
+/*****sammy*****/
+
+/*****cash*****/
+    /* #cash(c1486b52e923e265f) #css starts  */
+    .counterc1486b52e923e265f {
+        padding: 2.5rem 0
+    }
+    .counterc1486b52e923e265f .BG{
+        background-color:#fff
+    }
+    .counterc1486b52e923e265f h2{
+        color: #1eb2a6 
+    }
+    /* #cash(c1486b52e923e265f) #css ends  */
+/*****cash*****/
