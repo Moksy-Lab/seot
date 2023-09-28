@@ -104,6 +104,53 @@
     .priceshdm5xsomioi .fdb-block {
     padding: 2.5rem 0
 }
-
+.priceshdm5xsomioi .btn-primary:not(:disabled):not(.disabled):active,
+.priceshdm5xsomioi .btn-primary:focus{
+    color: #fff;
+    background-color: #EA5252;
+    border-color: #EA5252
+}
     /* #pyotr(priceshdm5xsomioi) #css ends  */
 /*****pyotr*****/
+
+/*****fan*****/
+/* #fan(formftnfjhyddgg) #css starts */  
+.formftnfjhyddgg .fdb-block {
+    padding: 2.5rem 0
+ }
+
+ .formftnfjhyddgg .logo{
+    max-height: 40px;
+    display: none;
+ }
+
+ .formftnfjhyddgg h1{
+    font-size: 32px
+ }
+ .formftnfjhyddgg .btn-primary{
+    color: #fff;
+    background-color: #EA5252;
+    border-color: #EA5252
+}
+.formftnfjhyddgg .btn-primary:not(:disabled):not(.disabled):active,
+.formftnfjhyddgg .btn-primary:focus{
+color: #fff;
+background-color: #EA5252;
+border-color: #EA5252
+}
+/* #fan(formftnfjhyddgg) #css starts */
+/*****fan*****/
+
+/*****flores*****/
+    /* #flores(floresfts2q9glqh3) #css starts */
+    .floresfts2q9glqh3 .fdb-block {
+        padding: 2.5rem 0
+     }
+     .floresfts2q9glqh3 a {
+        color: #1eb2a6
+     }
+     .floresfts2q9glqh3 a:hover {
+        color: #1eb2a6
+     }
+    /* #flores(floresfts2q9glqh3) #css ends */
+/*****flores*****/
