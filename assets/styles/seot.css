@@ -18,8 +18,8 @@
         padding: 2.5rem 0
     }
     .aboutd1e3f52aae36e7047 .DescriptionHeading {
-        color: #1eb2a6;
-        font-size: 50px
+        color: #3C3B37;
+        font-size: 40px
     }
 
     .aboutd1e3f52aae36e7047 .DescriptionPara {
@@ -43,6 +43,9 @@
     .serviceebfcf165e4ae5852 {
         padding: 2.5rem 0
     }
+    .serviceebfcf165e4ae5852 .image img {
+        width: 100%
+    }
     /* #sammy(ebfcf165e4ae5852) #css ends  */
 /*****sammy*****/
 
@@ -55,7 +58,12 @@
         background-color:#fff
     }
     .counterc1486b52e923e265f h2{
-        color: #1eb2a6 
+    color: #1eb2a6;
+    font-weight: 600;
+    margin-top: 10px
+    }
+    .counterc1486b52e923e265f .fa {
+        font-size: 40px
     }
     /* #cash(c1486b52e923e265f) #css ends  */
 /*****cash*****/
@@ -65,6 +73,9 @@
     .funtushftac0ssp3mu{
         padding: 2.5rem 0
     }
+    .funtushftac0ssp3mu h1{
+        font-size: 32px
+        }
     .funtushftac0ssp3mu .lead {
         font-size: 20px
     }
@@ -80,7 +91,13 @@
         padding: 2.5rem 0
     }
     .frankiepo48kr6e3hi a{ 
-        color: #1eb2a6
+        color: #3C3B37
+    }
+    .frankiepo48kr6e3hi a:hover{ 
+        font-weight: 600
+    }
+    .frankiepo48kr6e3hi h3{
+        margin-top: 10px
     }
     /* #frankie(frankiepo48kr6e3hi) #css ends  */
 /*****frankie*****/
@@ -127,6 +144,9 @@
  .formftnfjhyddgg h1{
     font-size: 32px
  }
+ .formftnfjhyddgg .lead {
+    font-size: 20px
+}
  .formftnfjhyddgg .btn-primary{
     color: #fff;
     background-color: #EA5252;
@@ -144,8 +164,11 @@ border-color: #EA5252
 /*****flores*****/
     /* #flores(floresfts2q9glqh3) #css starts */
     .floresfts2q9glqh3 .fdb-block {
-        padding: 2.5rem 0
+        padding: 1rem 0
      }
+     .floresfts2q9glqh3 h3{
+        font-size: 24px
+    }
      .floresfts2q9glqh3 a {
         color: #1eb2a6
      }
